@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas" group-title="México",Las Estrellas
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal5.mx" tvg-name="Canal 5" group-title="México",Canal 5
+https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno" group-title="México",Azteca Uno
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" group-title="México",ADN 40
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="paramount.lat" tvg-name="Paramount" group-title="Películas",Paramount
+https://live.clarovideo.com/paramountlat.m3u8
+
+#EXTINF:-1 tvg-id="space.lat" tvg-name="Space" group-title="Películas",Space
+https://live.clarovideo.com/spacelat.m3u8
+
+#EXTINF:-1 tvg-id="cinecanal.lat" tvg-name="Cinecanal" group-title="Películas",Cinecanal
+https://live.clarovideo.com/cinecanal.m3u8
+
+#EXTINF:-1 tvg-id="hbo.lat" tvg-name="HBO" group-title="Premium",HBO
+https://live.clarovideo.com/hbo.m3u8
+
+#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" group-title="Deportes",ESPN
+https://live.clarovideo.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel.lat" tvg-name="Disney Channel" group-title="Infantil",Disney Channel
+https://live.clarovideo.com/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.lat" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
+https://live.clarovideo.com/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon
+https://live.clarovideo.com/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="cnn.lat" tvg-name="CNN en Español" group-title="Noticias",CNN en Español
+https://live.clarovideo.com/cnn.m3u8
+
+#EXTINF:-1 tvg-id="history.lat" tvg-name="History Channel" group-title="Documentales",History Channel
+https://live.clarovideo.com/history.m3u8
+
+#EXTINF:-1 tvg-id="discovery.lat" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
+https://live.clarovideo.com/discovery.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.lat" tvg-name="National Geographic" group-title="Documentales",National Geographic
+https://live.clarovideo.com/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="tlnovelas.lat" tvg-name="Tlnovelas" group-title="Novelas",Tlnovelas
+https://live.clarovideo.com/tlnovelas.m3u8
+
+#EXTINF:-1 tvg-id="pasiones.lat" tvg-name="Pasiones" group-title="Novelas",Pasiones
+https://live.clarovideo.com/pasiones.m3u8
+
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="Multimedios" group-title="México",Multimedios
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="imagen.mx" tvg-name="Imagen TV" group-title="México",Imagen TV
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="Canal Once" group-title="México",Canal Once
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal22.mx" tvg-name="Canal 22" group-title="México",Canal 22
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="milenio.mx" tvg-name="Milenio TV" group-title="México",Milenio TV
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telehit.lat" tvg-name="Telehit" group-title="Música",Telehit
+https://live.clarovideo.com/telehit.m3u8
+
+#EXTINF:-1 tvg-id="mtv.lat" tvg-name="MTV" group-title="Música",MTV
+https://live.clarovideo.com/mtv.m3u8
+
+#EXTINF:-1 tvg-id="vh1.lat" tvg-name="VH1" group-title="Música",VH1
+https://live.clarovideo.com/vh1.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.lat" tvg-name="Fox Sports" group-title="Deportes",Fox Sports
+https://live.clarovideo.com/foxsports.m3u8
+
+#EXTINF:-1 tvg-id="tudn.lat" tvg-name="TUDN" group-title="Deportes",TUDN
+https://live.clarovideo.com/tudn.m3u8
+
+#EXTINF:-1 tvg-id="claro.lat" tvg-name="Claro Sports" group-title="Deportes",Claro Sports
+https://live.clarovideo.com/clarosports.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.lat" tvg-name="Discovery Kids" group-title="Infantil",Discovery Kids
+https://live.clarovideo.com/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="nickjr.lat" tvg-name="Nick Jr" group-title="Infantil",Nick Jr
+https://live.clarovideo.com/nickjr.m3u8
+
+#EXTINF:-1 tvg-id="boomerang.lat" tvg-name="Boomerang" group-title="Infantil",Boomerang
+https://live.clarovideo.com/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="cnnchile.lat" tvg-name="CNN Chile" group-title="Noticias",CNN Chile
+https://live.clarovideo.com/cnnchile.m3u8
+
+#EXTINF:-1 tvg-id="france24.lat" tvg-name="France 24 Español" group-title="Noticias",France 24 Español
+https://live.clarovideo.com/france24.m3u8
+
+#EXTINF:-1 tvg-id="rt.lat" tvg-name="RT Español" group-title="Noticias",RT Español
+https://live.clarovideo.com/rt.m3u8
+
+#EXTINF:-1 tvg-id="dw.lat" tvg-name="DW Español" group-title="Noticias",DW Español
+https://live.clarovideo.com/dw.m3u8
+
+#EXTINF:-1 tvg-id="euronews.lat" tvg-name="Euronews Español" group-title="Noticias",Euronews Español
+https://live.clarovideo.com/euronews.m3u8
+
+#EXTINF:-1 tvg-id="investigation.lat" tvg-name="Investigation Discovery" group-title="Documentales",Investigation Discovery
+https://live.clarovideo.com/id.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo.lat" tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
+https://live.clarovideo.com/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience.lat" tvg-name="Discovery Science" group-title="Documentales",Discovery Science
+https://live.clarovideo.com/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-id="unicable.lat" tvg-name="Unicable" group-title="Novelas",Unicable
+https://live.clarovideo.com/unicable.m3u8
+
+#EXTINF:-1 tvg-id="e.lat" tvg-name="E! Entertainment" group-title="Variedades",E! Entertainment
+https://live.clarovideo.com/e.m3u8
+
+#EXTINF:-1 tvg-id="maschic.lat" tvg-name="Más Chic" group-title="Variedades",Más Chic
+https://live.clarovideo.com/maschic.m3u8
+
+#EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" group-title="Variedades",TLC
+https://live.clarovideo.com/tlc.m3u8
+
+#EXTINF:-1 tvg-id="sony.lat" tvg-name="Sony Channel" group-title="Películas",Sony Channel
+https://live.clarovideo.com/sony.m3u8
+
+#EXTINF:-1 tvg-id="warner.lat" tvg-name="Warner Channel" group-title="Películas",Warner Channel
+https://live.clarovideo.com/warner.m3u8
+
+#EXTINF:-1 tvg-id="universal.lat" tvg-name="Universal TV" group-title="Películas",Universal TV
+https://live.clarovideo.com/universal.m3u8
+
+#EXTINF:-1 tvg-id="studio.lat" tvg-name="Studio Universal" group-title="Películas",Studio Universal
+https://live.clarovideo.com/studiouniversal.m3u8
+
+#EXTINF:-1 tvg-id="golden.lat" tvg-name="Golden" group-title="Películas",Golden
+https://live.clarovideo.com/golden.m3u8
+
+#EXTINF:-1 tvg-id="tnt.lat" tvg-name="TNT" group-title="Películas",TNT
+https://live.clarovideo.com/tnt.m3u8
+
+#EXTINF:-1 tvg-id="axn.lat" tvg-name="AXN" group-title="Películas",AXN
+https://live.clarovideo.com/axn.m3u8
+
+#EXTINF:-1 tvg-id="amc.lat" tvg-name="AMC" group-title="Películas",AMC
+https://live.clarovideo.com/amc.m3u8
+
+#EXTINF:-1 tvg-id="fx.lat" tvg-name="FX" group-title="Películas",FX
+https://live.clarovideo.com/fx.m3u8
+
+#EXTINF:-1 tvg-id="filmarts.lat" tvg-name="Film&Arts" group-title="Películas",Film&Arts
+https://live.clarovideo.com/filmarts.m3u8
+
+#EXTINF:-1 tvg-id="moviecity.lat" tvg-name="Movie City" group-title="Premium",Movie City
+https://live.clarovideo.com/moviecity.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.lat" tvg-name="Cinemax" group-title="Premium",Cinemax
+https://live.clarovideo.com/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="hbo2.lat" tvg-name="HBO 2" group-title="Premium",HBO 2
+https://live.clarovideo.com/hbo2.m3u8
+
+#EXTINF:-1 tvg-id="hboplus.lat" tvg-name="HBO Plus" group-title="Premium",HBO Plus
+https://live.clarovideo.com/hboplus.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily.lat" tvg-name="HBO Family" group-title="Premium",HBO Family
+https://live.clarovideo.com/hbofamily.m3u8
+
+#EXTINF:-1 tvg-id="hbosignature.lat" tvg-name="HBO Signature" group-title="Premium",HBO Signature
+https://live.clarovideo.com/hbosignature.m3u8
+
+#EXTINF:-1 tvg-id="hboxtreme.lat" tvg-name="HBO Xtreme" group-title="Premium",HBO Xtreme
+https://live.clarovideo.com/hboxtreme.m3u8
+
+#EXTINF:-1 tvg-id="nfl.lat" tvg-name="NFL Network" group-title="Deportes",NFL Network
+https://live.clarovideo.com/nfl.m3u8
+
+#EXTINF:-1 tvg-id="nba.lat" tvg-name="NBA TV" group-title="Deportes",NBA TV
+https://live.clarovideo.com/nba.m3u8
+
+#EXTINF:-1 tvg-id="golf.lat" tvg-name="Golf Channel" group-title="Deportes",Golf Channel
+https://live.clarovideo.com/golf.m3u8
+
+#EXTINF:-1 tvg-id="ufc.lat" tvg-name="UFC Network" group-title="Deportes",UFC Network
+https://live.clarovideo.com/ufc.m3u8
+
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo" group-title="Internacional",Telemundo
+https://live.clarovideo.com/telemundo.m3u8
+
+#EXTINF:-1 tvg-id="univision.us" tvg-name="Univisión" group-title="Internacional",Univisión
+https://live.clarovideo.com/univision.m3u8
+
+#EXTINF:-1 tvg-id="estrellatv.us" tvg-name="Estrella TV" group-title="Internacional",Estrella TV
+https://live.clarovideo.com/estrellatv.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega TV" group-title="Internacional",Mega TV
+https://live.clarovideo.com/mega.m3u8
+
+#EXTINF:-1 tvg-id="americatv.pe" tvg-name="América TV" group-title="Internacional",América TV
+https://live.clarovideo.com/americatv.m3u8
+
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="Caracol TV" group-title="Internacional",Caracol TV
+https://live.clarovideo.com/caracol.m3u8
+
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="RCN" group-title="Internacional",RCN
+https://live.clarovideo.com/rcn.m3u8
+
+#EXTINF:-1 tvg-id="tve.es" tvg-name="TVE" group-title="Internacional",TVE
+https://live.clarovideo.com/tve.m3u8
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2" group-title="Internacional",La 2
+https://live.clarovideo.com/la2.m3u8
+
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3" group-title="Internacional",Antena 3
+https://live.clarovideo.com/antena3.m3u8
+
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Telecinco" group-title="Internacional",Telecinco
+https://live.clarovideo.com/telecinco.m3u8
+
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="Canal Sur" group-title="Internacional",Canal Sur
+https://live.clarovideo.com/canalsur.m3u8
+
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="Willax TV" group-title="Internacional",Willax TV
+https://live.clarovideo.com/willax.m3u8
+
+#EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina Perú" group-title="Internacional",Latina Perú
+https://live.clarovideo.com/latina.m3u8
+
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="ATV Perú" group-title="Internacional",ATV Perú
+https://live.clarovideo.com/atv.m3u8
+
+#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="Televisión Canaria" group-title="Internacional",Televisión Canaria
+https://live.clarovideo.com/tvcanaria.m3u8
