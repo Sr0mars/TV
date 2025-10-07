@@ -12,51 +12,6 @@ https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" group-title="México",ADN 40
 https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="paramount.lat" tvg-name="Paramount" group-title="Películas",Paramount
-https://live.clarovideo.com/paramountlat.m3u8
-
-#EXTINF:-1 tvg-id="space.lat" tvg-name="Space" group-title="Películas",Space
-https://live.clarovideo.com/spacelat.m3u8
-
-#EXTINF:-1 tvg-id="cinecanal.lat" tvg-name="Cinecanal" group-title="Películas",Cinecanal
-https://live.clarovideo.com/cinecanal.m3u8
-
-#EXTINF:-1 tvg-id="hbo.lat" tvg-name="HBO" group-title="Premium",HBO
-https://live.clarovideo.com/hbo.m3u8
-
-#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" group-title="Deportes",ESPN
-https://live.clarovideo.com/espn.m3u8
-
-#EXTINF:-1 tvg-id="disneychannel.lat" tvg-name="Disney Channel" group-title="Infantil",Disney Channel
-https://live.clarovideo.com/disneychannel.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork.lat" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
-https://live.clarovideo.com/cartoonnetwork.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon
-https://live.clarovideo.com/nickelodeon.m3u8
-
-#EXTINF:-1 tvg-id="cnn.lat" tvg-name="CNN en Español" group-title="Noticias",CNN en Español
-https://live.clarovideo.com/cnn.m3u8
-
-#EXTINF:-1 tvg-id="history.lat" tvg-name="History Channel" group-title="Documentales",History Channel
-https://live.clarovideo.com/history.m3u8
-
-#EXTINF:-1 tvg-id="discovery.lat" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
-https://live.clarovideo.com/discovery.m3u8
-
-#EXTINF:-1 tvg-id="natgeo.lat" tvg-name="National Geographic" group-title="Documentales",National Geographic
-https://live.clarovideo.com/natgeo.m3u8
-
-#EXTINF:-1 tvg-id="tlnovelas.lat" tvg-name="Tlnovelas" group-title="Novelas",Tlnovelas
-https://live.clarovideo.com/tlnovelas.m3u8
-
-#EXTINF:-1 tvg-id="pasiones.lat" tvg-name="Pasiones" group-title="Novelas",Pasiones
-https://live.clarovideo.com/pasiones.m3u8
-
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="Multimedios" group-title="México",Multimedios
-https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="imagen.mx" tvg-name="Imagen TV" group-title="México",Imagen TV
 https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 
@@ -69,68 +24,17 @@ https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="milenio.mx" tvg-name="Milenio TV" group-title="México",Milenio TV
 https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="telehit.lat" tvg-name="Telehit" group-title="Música",Telehit
-https://live.clarovideo.com/telehit.m3u8
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="Multimedios" group-title="México",Multimedios
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv.lat" tvg-name="MTV" group-title="Música",MTV
-https://live.clarovideo.com/mtv.m3u8
+#EXTINF:-1 tvg-id="paramount.lat" tvg-name="Paramount" group-title="Películas",Paramount
+https://live.clarovideo.com/paramountlat.m3u8
 
-#EXTINF:-1 tvg-id="vh1.lat" tvg-name="VH1" group-title="Música",VH1
-https://live.clarovideo.com/vh1.m3u8
+#EXTINF:-1 tvg-id="space.lat" tvg-name="Space" group-title="Películas",Space
+https://live.clarovideo.com/spacelat.m3u8
 
-#EXTINF:-1 tvg-id="foxsports.lat" tvg-name="Fox Sports" group-title="Deportes",Fox Sports
-https://live.clarovideo.com/foxsports.m3u8
-
-#EXTINF:-1 tvg-id="tudn.lat" tvg-name="TUDN" group-title="Deportes",TUDN
-https://live.clarovideo.com/tudn.m3u8
-
-#EXTINF:-1 tvg-id="claro.lat" tvg-name="Claro Sports" group-title="Deportes",Claro Sports
-https://live.clarovideo.com/clarosports.m3u8
-
-#EXTINF:-1 tvg-id="discoverykids.lat" tvg-name="Discovery Kids" group-title="Infantil",Discovery Kids
-https://live.clarovideo.com/discoverykids.m3u8
-
-#EXTINF:-1 tvg-id="nickjr.lat" tvg-name="Nick Jr" group-title="Infantil",Nick Jr
-https://live.clarovideo.com/nickjr.m3u8
-
-#EXTINF:-1 tvg-id="boomerang.lat" tvg-name="Boomerang" group-title="Infantil",Boomerang
-https://live.clarovideo.com/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="cnnchile.lat" tvg-name="CNN Chile" group-title="Noticias",CNN Chile
-https://live.clarovideo.com/cnnchile.m3u8
-
-#EXTINF:-1 tvg-id="france24.lat" tvg-name="France 24 Español" group-title="Noticias",France 24 Español
-https://live.clarovideo.com/france24.m3u8
-
-#EXTINF:-1 tvg-id="rt.lat" tvg-name="RT Español" group-title="Noticias",RT Español
-https://live.clarovideo.com/rt.m3u8
-
-#EXTINF:-1 tvg-id="dw.lat" tvg-name="DW Español" group-title="Noticias",DW Español
-https://live.clarovideo.com/dw.m3u8
-
-#EXTINF:-1 tvg-id="euronews.lat" tvg-name="Euronews Español" group-title="Noticias",Euronews Español
-https://live.clarovideo.com/euronews.m3u8
-
-#EXTINF:-1 tvg-id="investigation.lat" tvg-name="Investigation Discovery" group-title="Documentales",Investigation Discovery
-https://live.clarovideo.com/id.m3u8
-
-#EXTINF:-1 tvg-id="discoveryturbo.lat" tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
-https://live.clarovideo.com/discoveryturbo.m3u8
-
-#EXTINF:-1 tvg-id="discoveryscience.lat" tvg-name="Discovery Science" group-title="Documentales",Discovery Science
-https://live.clarovideo.com/discoveryscience.m3u8
-
-#EXTINF:-1 tvg-id="unicable.lat" tvg-name="Unicable" group-title="Novelas",Unicable
-https://live.clarovideo.com/unicable.m3u8
-
-#EXTINF:-1 tvg-id="e.lat" tvg-name="E! Entertainment" group-title="Variedades",E! Entertainment
-https://live.clarovideo.com/e.m3u8
-
-#EXTINF:-1 tvg-id="maschic.lat" tvg-name="Más Chic" group-title="Variedades",Más Chic
-https://live.clarovideo.com/maschic.m3u8
-
-#EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" group-title="Variedades",TLC
-https://live.clarovideo.com/tlc.m3u8
+#EXTINF:-1 tvg-id="cinecanal.lat" tvg-name="Cinecanal" group-title="Películas",Cinecanal
+https://live.clarovideo.com/cinecanal.m3u8
 
 #EXTINF:-1 tvg-id="sony.lat" tvg-name="Sony Channel" group-title="Películas",Sony Channel
 https://live.clarovideo.com/sony.m3u8
@@ -162,6 +66,9 @@ https://live.clarovideo.com/fx.m3u8
 #EXTINF:-1 tvg-id="filmarts.lat" tvg-name="Film&Arts" group-title="Películas",Film&Arts
 https://live.clarovideo.com/filmarts.m3u8
 
+#EXTINF:-1 tvg-id="hbo.lat" tvg-name="HBO" group-title="Premium",HBO
+https://live.clarovideo.com/hbo.m3u8
+
 #EXTINF:-1 tvg-id="moviecity.lat" tvg-name="Movie City" group-title="Premium",Movie City
 https://live.clarovideo.com/moviecity.m3u8
 
@@ -183,6 +90,18 @@ https://live.clarovideo.com/hbosignature.m3u8
 #EXTINF:-1 tvg-id="hboxtreme.lat" tvg-name="HBO Xtreme" group-title="Premium",HBO Xtreme
 https://live.clarovideo.com/hboxtreme.m3u8
 
+#EXTINF:-1 tvg-id="espn.lat" tvg-name="ESPN" group-title="Deportes",ESPN
+https://live.clarovideo.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.lat" tvg-name="Fox Sports" group-title="Deportes",Fox Sports
+https://live.clarovideo.com/foxsports.m3u8
+
+#EXTINF:-1 tvg-id="tudn.lat" tvg-name="TUDN" group-title="Deportes",TUDN
+https://live.clarovideo.com/tudn.m3u8
+
+#EXTINF:-1 tvg-id="claro.lat" tvg-name="Claro Sports" group-title="Deportes",Claro Sports
+https://live.clarovideo.com/clarosports.m3u8
+
 #EXTINF:-1 tvg-id="nfl.lat" tvg-name="NFL Network" group-title="Deportes",NFL Network
 https://live.clarovideo.com/nfl.m3u8
 
@@ -194,6 +113,90 @@ https://live.clarovideo.com/golf.m3u8
 
 #EXTINF:-1 tvg-id="ufc.lat" tvg-name="UFC Network" group-title="Deportes",UFC Network
 https://live.clarovideo.com/ufc.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel.lat" tvg-name="Disney Channel" group-title="Infantil",Disney Channel
+https://live.clarovideo.com/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.lat" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
+https://live.clarovideo.com/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.lat" tvg-name="Nickelodeon" group-title="Infantil",Nickelodeon
+https://live.clarovideo.com/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.lat" tvg-name="Discovery Kids" group-title="Infantil",Discovery Kids
+https
+
+#EXTINF:-1 tvg-id="discoverykids.lat" tvg-name="Discovery Kids" group-title="Infantil",Discovery Kids
+https://live.clarovideo.com/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="nickjr.lat" tvg-name="Nick Jr" group-title="Infantil",Nick Jr
+https://live.clarovideo.com/nickjr.m3u8
+
+#EXTINF:-1 tvg-id="boomerang.lat" tvg-name="Boomerang" group-title="Infantil",Boomerang
+https://live.clarovideo.com/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="cnn.lat" tvg-name="CNN en Español" group-title="Noticias",CNN en Español
+https://live.clarovideo.com/cnn.m3u8
+
+#EXTINF:-1 tvg-id="cnnchile.lat" tvg-name="CNN Chile" group-title="Noticias",CNN Chile
+https://live.clarovideo.com/cnnchile.m3u8
+
+#EXTINF:-1 tvg-id="france24.lat" tvg-name="France 24 Español" group-title="Noticias",France 24 Español
+https://live.clarovideo.com/france24.m3u8
+
+#EXTINF:-1 tvg-id="rt.lat" tvg-name="RT Español" group-title="Noticias",RT Español
+https://live.clarovideo.com/rt.m3u8
+
+#EXTINF:-1 tvg-id="dw.lat" tvg-name="DW Español" group-title="Noticias",DW Español
+https://live.clarovideo.com/dw.m3u8
+
+#EXTINF:-1 tvg-id="euronews.lat" tvg-name="Euronews Español" group-title="Noticias",Euronews Español
+https://live.clarovideo.com/euronews.m3u8
+
+#EXTINF:-1 tvg-id="history.lat" tvg-name="History Channel" group-title="Documentales",History Channel
+https://live.clarovideo.com/history.m3u8
+
+#EXTINF:-1 tvg-id="discovery.lat" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
+https://live.clarovideo.com/discovery.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.lat" tvg-name="National Geographic" group-title="Documentales",National Geographic
+https://live.clarovideo.com/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="investigation.lat" tvg-name="Investigation Discovery" group-title="Documentales",Investigation Discovery
+https://live.clarovideo.com/id.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo.lat" tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
+https://live.clarovideo.com/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience.lat" tvg-name="Discovery Science" group-title="Documentales",Discovery Science
+https://live.clarovideo.com/discoveryscience.m3u8
+
+#EXTINF:-1 tvg-id="tlnovelas.lat" tvg-name="Tlnovelas" group-title="Novelas",Tlnovelas
+https://live.clarovideo.com/tlnovelas.m3u8
+
+#EXTINF:-1 tvg-id="pasiones.lat" tvg-name="Pasiones" group-title="Novelas",Pasiones
+https://live.clarovideo.com/pasiones.m3u8
+
+#EXTINF:-1 tvg-id="unicable.lat" tvg-name="Unicable" group-title="Novelas",Unicable
+https://live.clarovideo.com/unicable.m3u8
+
+#EXTINF:-1 tvg-id="e.lat" tvg-name="E! Entertainment" group-title="Variedades",E! Entertainment
+https://live.clarovideo.com/e.m3u8
+
+#EXTINF:-1 tvg-id="maschic.lat" tvg-name="Más Chic" group-title="Variedades",Más Chic
+https://live.clarovideo.com/maschic.m3u8
+
+#EXTINF:-1 tvg-id="tlc.lat" tvg-name="TLC" group-title="Variedades",TLC
+https://live.clarovideo.com/tlc.m3u8
+
+#EXTINF:-1 tvg-id="telehit.lat" tvg-name="Telehit" group-title="Música",Telehit
+https://live.clarovideo.com/telehit.m3u8
+
+#EXTINF:-1 tvg-id="mtv.lat" tvg-name="MTV" group-title="Música",MTV
+https://live.clarovideo.com/mtv.m3u8
+
+#EXTINF:-1 tvg-id="vh1.lat" tvg-name="VH1" group-title="Música",VH1
+https://live.clarovideo.com/vh1.m3u8
 
 #EXTINF:-1 tvg-id="telemundo.us" tvg-name="Telemundo" group-title="Internacional",Telemundo
 https://live.clarovideo.com/telemundo.m3u8
@@ -242,3 +245,75 @@ https://live.clarovideo.com/atv.m3u8
 
 #EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="Televisión Canaria" group-title="Internacional",Televisión Canaria
 https://live.clarovideo.com/tvcanaria.m3u8
+
+#EXTINF:-1 tvg-id="canal13.gt" tvg-name="Canal 13 Guatemala" group-title="Internacional",Canal 13 Guatemala
+https://live.clarovideo.com/canal13gt.m3u8
+
+#EXTINF:-1 tvg-id="guatevision.gt" tvg-name="Guatevisión" group-title="Internacional",Guatevisión
+https://live.clarovideo.com/guatevision.m3u8
+
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN Chile" group-title="Internacional",TVN Chile
+https://live.clarovideo.com/tvnchile.m3u8
+
+#EXTINF:-1 tvg-id="redtv.cl" tvg-name="Red TV Chile" group-title="Internacional",Red TV Chile
+https://live.clarovideo.com/redtv.m3u8
+
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="TV Pública Argentina" group-title="Internacional",TV Pública Argentina
+https://live.clarovideo.com/tvpublica.m3u8
+
+#EXTINF:-1 tvg-id="elnueve.ar" tvg-name="El Nueve" group-title="Internacional",El Nueve
+https://live.clarovideo.com/elnueve.m3u8
+
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe" group-title="Internacional",Telefe
+https://live.clarovideo.com/telefe.m3u8
+
+#EXTINF:-1 tvg-id="america.ar" tvg-name="América TV Argentina" group-title="Internacional",América TV Argentina
+https://live.clarovideo.com/americatvarg.m3u8
+
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="C5N" group-title="Internacional",C5N
+https://live.clarovideo.com/c5n.m3u8
+
+#EXTINF:-1 tvg-id="tvazteca.mx" tvg-name="TV Azteca Internacional" group-title="México",TV Azteca Internacional
+https://live.clarovideo.com/tvaztecainternacional.m3u8
+
+#EXTINF:-1 tvg-id="foro.mx" tvg-name="FOROtv" group-title="México",FOROtv
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="Excélsior TV" group-title="México",Excélsior TV
+https://linear-412.frequency.stream/412/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalcatorce.mx" tvg-name="Canal Catorce" group-title="México",Canal Catorce
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvunam.mx" tvg-name="TV UNAM" group-title="México",TV UNAM
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="oncekids.mx" tvg-name="Once Niños" group-title="Infantil",Once Niños
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canaljoven.mx" tvg-name="Canal Joven" group-title="México",Canal Joven
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalpatrio.mx" tvg-name="Canal Patrio" group-title="México",Canal Patrio
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mexiquense.mx" tvg-name="TV Mexiquense" group-title="México",TV Mexiquense
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telemax.mx" tvg-name="Telemax Sonora" group-title="México",Telemax Sonora
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvcuatro.mx" tvg-name="TV Cuatro Guanajuato" group-title="México",TV Cuatro Guanajuato
+https://linear-420.frequency.stream/420/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal10.mx" tvg-name="Canal 10 Cancún" group-title="México",Canal 10 Cancún
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal44.mx" tvg-name="Canal 44 UdeG" group-title="México",Canal 44 UdeG
+https://linear-422.frequency.stream/422/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvmar.mx" tvg-name="TV Mar Bahía" group-title="México",TV Mar Bahía
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal28.mx" tvg-name="Canal 28 Nuevo León" group-title="México",Canal 28 Nuevo León
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
